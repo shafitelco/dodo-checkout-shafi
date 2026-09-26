@@ -1,0 +1,4 @@
+empty form → Missing payment details
+4242 4242 4242 4242 → success
+4000 0000 0000 0002 → declined
+4000 0000 0000 0341 → failed, then success
