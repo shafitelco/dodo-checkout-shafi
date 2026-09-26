@@ -1,8 +1,16 @@
 # Dodo Payments — Tiny Embeddable Checkout
 
-**Submitted by:** Shafiulla Attar  
+**Submitted by:** Shafiulla Attar
+
 **Email:** shafiullaattar786@gmail.com
-**Technology:** React, TypeScript, Vite, Tailwind CSS 
+
+**Technology:** React, TypeScript, Vite, Tailwind CSS
+
+**Live Demo:** https://dodo-checkout-shafi-r9c3.vercel.app/
+
+**Hosted Checkout:** https://dodo-checkout-shafi.vercel.app/
+
+**Source Code:** [GitHub Repository](https://github.com/shafitelco/dodo-checkout-shafi)
 
 A small embeddable checkout experience built with **React, TypeScript, Vite, and Tailwind CSS**.
 
