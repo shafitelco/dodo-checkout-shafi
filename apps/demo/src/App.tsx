@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { DodoCheckout } from "./dodo-checkout";
+import { DodoCheckout } from "../../../packages/sdk/src/dodo-checkout";
 
 type LogEntry = {
   id: number;
