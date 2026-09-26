@@ -29,7 +29,7 @@ type CheckoutMessage =
       type: 'DODO_ESCAPE'
     }
 
-const CHECKOUT_URL = 'http://localhost:5174'
+const CHECKOUT_URL = import.meta.env.VITE_CHECKOUT_URL
 
 const CHECKOUT_ORIGIN = new URL(CHECKOUT_URL).origin
 

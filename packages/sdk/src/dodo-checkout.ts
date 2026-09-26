@@ -33,7 +33,7 @@ type CheckoutMessage =
       reason: "user" | "success" | "error";
     };
 
-const CHECKOUT_URL = 'http://localhost:5174'
+const CHECKOUT_URL = 'https://dodo-checkout-shafi.vercel.app'
 
 const CHECKOUT_ORIGIN = new URL(CHECKOUT_URL).origin;
 
